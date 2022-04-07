@@ -48,7 +48,11 @@ button.button {
       color:#ff48fa
   }
   p{
-      font-family: cursive;
+/*       font-family: cursive; */   
+  }
+
+  p{
+     font-family: sans-serif;
   }
   .icons{
 

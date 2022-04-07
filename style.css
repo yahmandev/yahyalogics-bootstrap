@@ -237,7 +237,7 @@ button.button {
     transform: skew(0deg, 10deg);
     color: #fff;
     font-size: 16px;
-    font-family: cursive;
+/*     font-family: cursive; */
     text-align: justify;
 }
 

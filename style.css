@@ -346,7 +346,7 @@ button.button {
 .jselector{
     border-radius: 30%;
 }
-.contactusform { max-width:400px; margin:50px auto; }
+.contactusform { max-width:400px; margin:50px auto;color : black; }
 
 .feedback-input {
   color:white;
